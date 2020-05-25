@@ -1,1 +1,2 @@
-# WeCare-HackerEarth-Hackathon
+# WeCare
+Repository of our Project.
